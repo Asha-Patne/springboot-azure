@@ -16,7 +16,7 @@ import java.util.List;
 
 @RestController
 @SecurityRequirement(name = "basicauth")
-@OpenAPIDefinition(info = @Info(title = "User API", version = "v1"))
+@OpenAPIDefinition(info = @Info(title = "User API", version = "v2"))
 @Log4j2
 public class RestApiController {
 
