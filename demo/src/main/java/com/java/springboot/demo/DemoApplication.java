@@ -19,7 +19,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		log.info("Welcome to Spring Boot Application with Swagger...!!!!");
+		log.info("Welcome to Spring Boot Application with Swagger and deployed to Azure...!!!!");
 	}
 
 }
